@@ -14,7 +14,6 @@ https://rickandmortyapi.com/documentation/#rest
 - cd rickandmortyapi/
 - composer install
 - cp .env.example .env
-- Update `.env` and set your database credentials
 - php artisan key:generate
 - npm install
 - php artisan serve
