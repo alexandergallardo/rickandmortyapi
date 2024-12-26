@@ -28,7 +28,7 @@ vendor/bin/phpunit
 # or Unit test only
 vendor/bin/phpunit --testsuite Unit
 ```
-
+![Rick and Morty](https://github.com/alexandergallardo/rickandmortyapi/blob/main/public/images/test.png?raw=true) 
 
 ## Requerimientos obligatorios implementados
 - Vista de listado de personajes. http://127.0.0.1:8000/characters
