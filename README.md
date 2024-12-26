@@ -19,6 +19,7 @@ https://rickandmortyapi.com/documentation/#rest
 - php artisan serve
 - Open in browser : http://127.0.0.1:8000/
 
+
 ## Unit Test
 #### run PHPUnit
 ```bash
@@ -37,6 +38,8 @@ vendor/bin/phpunit --testsuite Unit
 - Se navega al detalle del personaje cuando se da click en el ID del mismo.
 - Vista de detalle de personaje creada. http://127.0.0.1:8000/characters/1
 - Del personaje se muestran los siguientes campos: name, status, species, image, type, gender, episodes
+
+- Aplicación desplegada en: https://encuesta.fadescolombia.com/characters
 
 ## Requerimientos opcionales implementados
 - Filtrar personajes por gender, species y status.
