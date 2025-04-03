@@ -1,4 +1,4 @@
-# Desafío Técnico PHP
+# Desafío Técnico PHP - Alexander Gallardo
 
 ## About Repository
 Explorar los personajes de Rick and Morty. 
